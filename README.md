@@ -4,3 +4,7 @@ Video file needs to be provided as input and the output is a video file with the
 <br>
 Data set:- https://www.kaggle.com/c/facial-keypoints-detection <br>
 Refrence:- https://towardsdatascience.com/facial-keypoints-detection-deep-learning-737547f73515  and stackoverflow
+<br>
+While executing do not forget to change<br>
+filterIndex (to change the filter)<br>
+videofilename (name of the video file)
